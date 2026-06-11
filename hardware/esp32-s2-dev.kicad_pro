@@ -66,7 +66,7 @@
           "pad_connection": 1,
           "remove_islands": 0,
           "thermal_relief_gap": 0.25,
-          "thermal_relief_spoke_width": 0.5
+          "thermal_relief_spoke_width": 0.3
         }
       },
       "diff_pair_dimensions": [
@@ -698,7 +698,7 @@
         "uuid": "2ad9bf36-62fa-4866-b02a-35dbdc5bb1b6"
       }
     ],
-    "used_designators": "#PWR28-31,F1",
+    "used_designators": "",
     "variants": []
   },
   "sheets": [
